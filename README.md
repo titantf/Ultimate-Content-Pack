@@ -10,6 +10,8 @@ This repository contains all the content hosted across Titan.TF servers in one p
 
 [QR Code Spray VTF](https://titan.tf/assets/downloads/sprays/titan-qr.vtf)
 
+[mystHUD](https://mysthud.titan.tf)
+
 ## Mann vs Machine
 Coming Soon
 
