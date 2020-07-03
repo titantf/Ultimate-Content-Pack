@@ -2,7 +2,7 @@
 This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally as they are too large in size to upload here.
 
 ## Titan.TF Core
-[Core Maps (Orange, Hightower ect) & Content Pack](https://github.com/TitanTF/Titan-DLC)
+[Core Maps (Orange, Hightower etc) & Content Pack](https://github.com/TitanTF/Titan-DLC)
 
 [Branding Asset Pack](https://www.dropbox.com/sh/7tz5o6cy5912kkv/AACzrSHxziykO98DD8uYliT1a?dl=0)
 
