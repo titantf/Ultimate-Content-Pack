@@ -13,7 +13,9 @@ This repository contains all the content hosted across Titan.TF servers in one p
 [mystHUD](https://mysthud.titan.tf)
 
 ## Mann vs Machine
-Coming Soon
+[MvM Icons, Custom Mission Content](https://github.com/TitanTF/Titan-DLC)
+
+[Maps (Coming Soon)](#)
 
 ## Machine Attacks
 ### Premium Upgrades Remastered 4.1
