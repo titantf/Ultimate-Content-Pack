@@ -15,9 +15,11 @@ This repository contains all the content hosted across Titan.TF servers in one p
 ## Mann vs Machine
 [MvM Icons, Custom Mission Content](https://github.com/TitanTF/Titan-DLC)
 
-[Maps (Coming Soon)](#)
+[Map Pack (Coming Soon)](#)
 
 ## Machine Attacks
+[Map Pack](https://mega.nz/file/nxIzlaBJ#vnPtL5B-9jpW3RjiYn2KzYMi84P175-tf75OmFsmBeM)
+
 ### Premium Upgrades Remastered 4.1
 [Gamebanana](https://gamebanana.com/dl/377913)
 
@@ -33,10 +35,12 @@ This repository contains all the content hosted across Titan.TF servers in one p
 [Maps, MvM Icons & Custom Mission Content](https://github.com/AttackOnTeufort/AOT-DLC)
 
 ## Slender Fortress
-Coming Soon
+[Map Pack (Coming Soon)](#)
+
+[Content Pack (Coming Soon)](#)
 
 ## Zombie Mod
-[Maps](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI)
+[Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI)
 
 [Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo)
 
@@ -44,11 +48,18 @@ Coming Soon
 [Content Pack](https://github.com/TitanTF/Titan-DLC)
 
 ## Dodgeball
-Coming Soon
+[Map Pack (Coming Soon)](#)
 
 # Archived
+Why is this here? Retired gamemodes may return in the future.
+
 ## Deathrun
 Coming Soon
 
 ## VS Saxton Hale / Freak Fortress
 Coming Soon
+
+## Prop Hunt
+[Map Pack (Coming Soon)](#)
+
+[Content Pack](https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHSoundPack.zip)
