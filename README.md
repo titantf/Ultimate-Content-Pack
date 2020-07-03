@@ -50,18 +50,5 @@ This repository contains all the content hosted across Titan.TF servers in one p
 ## Dodgeball
 [Map Pack (Coming Soon)](#)
 
----
-
-# Archived
-Why is this here? Retired gamemodes may return in the future.
-
-## Deathrun
-Coming Soon
-
-## VS Saxton Hale / Freak Fortress
-Coming Soon
-
-## Prop Hunt
-[Map Pack (Coming Soon)](#)
-
-[Content Pack](https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHSoundPack.zip)
+## Archived
+[List of Archived Content](https://github.com/TitanTF/Ultimate-Content-Pack/blob/master/Archived.MD)
