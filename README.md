@@ -1,5 +1,5 @@
 # The Ultimate Content Pack for Titan.TF
-This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally on MEGA as they are very large in size.
+This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally as they are too large in size to upload here.
 
 ## Titan.TF Core
 [Core Maps (Orange, Hightower ect) & Content Pack](https://github.com/TitanTF/Titan-DLC)
