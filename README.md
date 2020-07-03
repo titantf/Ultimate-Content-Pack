@@ -41,7 +41,7 @@ Coming Soon
 [Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo)
 
 ## Bowling
-Coming Soon
+[Content Pack](https://github.com/TitanTF/Titan-DLC)
 
 ## Dodgeball
 Coming Soon
