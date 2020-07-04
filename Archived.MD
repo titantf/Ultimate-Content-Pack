@@ -8,6 +8,6 @@ Coming Soon
 Coming Soon
 
 ## Prop Hunt
-[Map Pack (Coming Soon)](#)
+[Map Pack](https://mega.nz/file/yoo1CYhZ#Pd9Iby_n09NqsjpvlsfiLx9lbR9UgPwk14Ru3tMoqMs)
 
 [Content Pack](https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHSoundPack.zip)
