@@ -1,6 +1,8 @@
 # The Ultimate Content Pack for Titan.TF
 This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally as they are too large in size to upload here.
 
+![Vinyl](https://raw.githubusercontent.com/TitanTF/Titan-DLC/master/Titan%20DLC%20Vinyl.png)
+
 ## Titan.TF Core
 [Core Maps (Orange, Hightower etc) & Content Pack](https://github.com/TitanTF/Titan-DLC) _[02 July, 2020]_
 
