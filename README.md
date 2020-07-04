@@ -45,7 +45,7 @@ Content Pack (Coming Soon)
 [Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo)
 
 ## Bowling
-[Content Pack](https://github.com/TitanTF/Titan-DLC)d
+[Content Pack](https://github.com/TitanTF/Titan-DLC)
 
 ## Dodgeball
 [Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc)
