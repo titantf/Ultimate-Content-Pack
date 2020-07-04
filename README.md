@@ -18,7 +18,7 @@ This repository contains all the content hosted across Titan.TF servers in one p
 Map Pack (Coming Soon)
 
 ## Machine Attacks
-[Map Pack](https://mega.nz/file/nxIzlaBJ#vnPtL5B-9jpW3RjiYn2KzYMi84P175-tf75OmFsmBeM)
+[Map Pack](https://mega.nz/file/nxIzlaBJ#vnPtL5B-9jpW3RjiYn2KzYMi84P175-tf75OmFsmBeM) [03 July, 2020]
 
 ### Premium Upgrades Remastered 4.1
 [Gamebanana](https://gamebanana.com/dl/377913)
@@ -35,20 +35,20 @@ Map Pack (Coming Soon)
 [Maps, MvM Icons & Custom Mission Content](https://github.com/AttackOnTeufort/AOT-DLC)
 
 ## Slender Fortress
-[Map Pack](https://mega.nz/file/mgh1VaCS#EjISIc3DAdpw6D5VFjW9iMRfiHH-oEON8rrPiIRjmyU)
+[Map Pack](https://mega.nz/file/mgh1VaCS#EjISIc3DAdpw6D5VFjW9iMRfiHH-oEON8rrPiIRjmyU) [03 July, 2020]
 
-[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g)
+[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) [04 July, 2020]
 
 ## Zombie Mod
-[Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI)
+[Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI) [03 July, 2020]
 
-[Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo)
+[Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo) [03 July, 2020]
 
 ## Bowling
 [Content Pack](https://github.com/TitanTF/Titan-DLC)
 
 ## Dodgeball
-[Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc)
+[Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc) [03 July, 2020]
 
 ## Archived
 [List of Archived Content](https://github.com/TitanTF/Ultimate-Content-Pack/blob/master/Archived.MD)
