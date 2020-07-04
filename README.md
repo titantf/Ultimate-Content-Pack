@@ -15,7 +15,7 @@ This repository contains all the content hosted across Titan.TF servers in one p
 ## Mann vs Machine
 [MvM Icons, Custom Mission Content](https://github.com/TitanTF/Titan-DLC)
 
-[Map Pack (Coming Soon)](#)
+Map Pack (Coming Soon)
 
 ## Machine Attacks
 [Map Pack](https://mega.nz/file/nxIzlaBJ#vnPtL5B-9jpW3RjiYn2KzYMi84P175-tf75OmFsmBeM)
@@ -35,9 +35,9 @@ This repository contains all the content hosted across Titan.TF servers in one p
 [Maps, MvM Icons & Custom Mission Content](https://github.com/AttackOnTeufort/AOT-DLC)
 
 ## Slender Fortress
-[Map Pack (Coming Soon)](#)
+[Map Pack](https://mega.nz/file/mgh1VaCS#EjISIc3DAdpw6D5VFjW9iMRfiHH-oEON8rrPiIRjmyU)
 
-[Content Pack (Coming Soon)](#)
+Content Pack (Coming Soon)
 
 ## Zombie Mod
 [Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI)
@@ -45,7 +45,7 @@ This repository contains all the content hosted across Titan.TF servers in one p
 [Content Pack](https://mega.nz/file/mgYzlShZ#a7URt1h3t8Fb9gIyIYZnRBsmB4r0weqVEhhCLKLGNUo)
 
 ## Bowling
-[Content Pack](https://github.com/TitanTF/Titan-DLC)
+[Content Pack](https://github.com/TitanTF/Titan-DLC)d
 
 ## Dodgeball
 [Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc)
