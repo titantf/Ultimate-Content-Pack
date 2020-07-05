@@ -12,7 +12,7 @@ This repository contains all the content hosted across Titan.TF servers in one p
 
 [QR Code Spray VTF](https://titan.tf/assets/downloads/sprays/titan-qr.vtf) _[14 January, 2020]_
 
-[mystHUD](https://mysthud.titan.tf) _[22 March, 2020]_
+[mystHUD](https://mysthud.titan.tf) _[5 July, 2020]_
 
 ## Mann vs Machine
 [MvM Icons, Custom Mission Content](https://github.com/TitanTF/Titan-DLC) _[02 July, 2020]_
