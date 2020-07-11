@@ -39,7 +39,9 @@ Map Pack (Coming Soon)
 ## Slender Fortress
 [Map Pack](https://mega.nz/file/mgh1VaCS#EjISIc3DAdpw6D5VFjW9iMRfiHH-oEON8rrPiIRjmyU) _[03 July, 2020]_
 
-[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/usBT2QhB#T0buM36RIj44Bl6K1G6xaFuNf6SZ71vY7byAqxl4Be4) _[11 July, 2020]_
+[Content Update — Bear Traps, Queen Vanessa, Neighbor](https://mega.nz/file/nt4zjDKI#f8LHNaCMx63kT0sfb6fqTN1zdF78YD4y91SVOU-PPTY) _[11 July, 2020]_
+
+[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
 
 ## Zombie Mod
 [Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI) _[03 July, 2020]_
