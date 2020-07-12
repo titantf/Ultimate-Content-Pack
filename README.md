@@ -39,7 +39,9 @@ Map Pack (Coming Soon)
 ## Slender Fortress
 [Map Pack](https://mega.nz/file/mgh1VaCS#EjISIc3DAdpw6D5VFjW9iMRfiHH-oEON8rrPiIRjmyU) _[03 July, 2020]_
 
-[Content Update — Bear Traps, Queen Vanessa, Neighbor](https://mega.nz/file/nt4zjDKI#f8LHNaCMx63kT0sfb6fqTN1zdF78YD4y91SVOU-PPTY) _[11 July, 2020]_
+[Content Update — Added Pack 21, Team Killer, Skulldozer and Bulldozer Boss Updates](https://mega.nz/file/395AyS5Q#_ZhNoWk8Yzm4Z2vnFRzHhqX8cccFXDIZ8CJmPl_m0j0) _[12 July, 2020]_
+
+[Content Update — New Bear Traps, Queen Vanessa and Neighbor Bosses](https://mega.nz/file/nt4zjDKI#f8LHNaCMx63kT0sfb6fqTN1zdF78YD4y91SVOU-PPTY) _[11 July, 2020]_
 
 [All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
 
