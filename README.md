@@ -1,5 +1,5 @@
-# The Ultimate Content Pack for Titan.TF
-This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally as they are too large in size to upload here.
+<h1 align="center">The Ultimate Content Pack for Titan.TF</h1>
+<p align="center">This repository contains all the content hosted across Titan.TF servers in one place. Most downloads are hosted externally as they are too large in size to upload here.</p>
 
 ![Vinyl](https://raw.githubusercontent.com/TitanTF/Titan-DLC/master/Titan%20DLC%20Vinyl.png)
 
