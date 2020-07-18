@@ -23,7 +23,7 @@ Delete the old installation before placing your new installation over it.
 ## Titan.TF Core
 [Core Maps (Orange, Hightower etc) & Content Pack](https://github.com/TitanTF/Titan-DLC) _[02 July, 2020]_
 
-[Branding Asset Pack](https://www.dropbox.com/sh/7tz5o6cy5912kkv/AACzrSHxziykO98DD8uYliT1a?dl=0) _[14 January, 2020]_
+[Press Kit](https://www.dropbox.com/sh/7tz5o6cy5912kkv/AACzrSHxziykO98DD8uYliT1a?dl=0) _[14 January, 2020]_
 
 [QR Code Spray VMT](https://titan.tf/assets/downloads/sprays/titan-qr.vmt) _[14 January, 2020]_
 
