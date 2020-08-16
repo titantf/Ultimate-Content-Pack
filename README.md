@@ -60,6 +60,8 @@ Map Pack (Coming Soon)
 [All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
 
 ### *Content Updates (eventually will merge to base)
+[Updated Astolfo Bean Plushie, Jaraxxus, Boxing Jaraxxus, Boxing Argonite Giant, Boxing Argonite Magician, Boxing KF2 Patriarch and Boxing Hans Volter](https://mega.nz/file/nkxCVCpS#uGVT-RHyDzR7Nf2WfHVSpZmEctRjw8KfnkReRTsm-Mc) _[16 August, 2020]_
+
 [Added Astolfo Bean Plushie Boss](https://mega.nz/file/e5hRhAxK#75F7arU96qDAMS0B6BdImghIPtGF3J4LaKAIVIbOP4w) _[16 July, 2020]_
 
 [Added Pack 21, Team Killer, Skulldozer and Bulldozer Boss Updates](https://mega.nz/file/395AyS5Q#_ZhNoWk8Yzm4Z2vnFRzHhqX8cccFXDIZ8CJmPl_m0j0) _[12 July, 2020]_
