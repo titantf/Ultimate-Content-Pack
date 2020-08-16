@@ -94,6 +94,8 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 
 ## Class Wars
 
+## Deathmatch
+
 ## Deathrun
 [Map Pack](https://mega.nz/file/zlhV2RRT#4J4V_2M88WL0-xrCAwR4Ioxxgy6jQ-peBk4_MoYrlQQ) _[16 July, 2020]_
 
