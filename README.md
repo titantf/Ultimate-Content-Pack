@@ -21,7 +21,7 @@ Paste the incremental update over your existing installation folder.
 Delete the old installation before placing your new installation over it.
 
 ## Titan.TF Core
-[Core Maps (Orange, Hightower etc) & Content Pack](https://github.com/TitanTF/Titan-DLC) _[02 July, 2020]_
+[Core Maps (Orange, Hightower etc) & Content Pack](https://github.com/TitanTF/Titan-DLC) _[16 August, 2020]_
 
 [Press Kit](https://www.dropbox.com/sh/7tz5o6cy5912kkv/AACzrSHxziykO98DD8uYliT1a?dl=0) _[14 January, 2020]_
 
