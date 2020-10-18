@@ -60,6 +60,8 @@ Map Pack (Coming Soon)
 [All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
 
 ### *Content Updates (eventually will merge to base)
+[SF2 Modified Update 1.5.5.5 Content, The Count's Monster (Halloween KF2 Patriarch), Count Hans (Halloween Hans Volter), Swamp Monster King (Halloween King Fleshpound), Boxing King Fleshpound](https://mega.nz/file/v5YWlbaL#OQxWGGe3CTVxDD-0P7_vcATo_9Yer4G_kPJZeQ62ItI) _[18 October, 2020]_
+
 [Updated Chris Walker, Queen Vanessa, and Astolfo Bean Plushie](https://mega.nz/file/vhwFEIhD#3lEYSIueCLILJztAx9Zt_l7fn9sM28hXrTHWW9eDsTA) _[10 September, 2020]_
 
 [Updated Hans Volter, Dr Trager and SF2 Modified Update 5 Content](https://mega.nz/file/CoJngCxL#MKbf78l1Y7O-44vz5XgaGmfhvwhYL8op0Z7wZU2Lw3U) _[02 September, 2020]_
