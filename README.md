@@ -55,7 +55,7 @@ Map Pack (Coming Soon)
 
 ## Slender Fortress
 ### Base
-[Map Pack](https://mega.nz/file/vs5FBShb#7D_LFMEut79uii3ojlete21y_l8imRIQI9fFZkWyzZ8) _[09 November, 2020]_
+[Map Pack](https://mega.nz/file/295mUKZD#aGDNedm0Q7M1Up_6i1gg4PEalqlHtSzNQxvh8xff9hE) _[11 November, 2020]_
 
 [All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
 
