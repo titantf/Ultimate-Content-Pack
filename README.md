@@ -53,6 +53,13 @@ Map Pack (Coming Soon)
 ## Attack on Teufort
 [Maps, MvM Icons & Custom Mission Content](https://github.com/AttackOnTeufort/AOT-DLC) _[30 June, 2020]_
 
+## Freak Fortress
+[Map Pack](https://mega.nz/file/S9ZmXQLS#Mk7EinkeEEelg7T5rC2Ynr_MJF0upHVRabWVNfRG-hI) _[16 July, 2020]_
+
+[Base Content Pack](https://mega.nz/file/LloAjDII#KrkqVV_U5IjVO2iNI4URgOAVDAFm_D6YNuj-6waXcJc) _[12 February, 2021]_
+
+[Additional Content Pack]() _[12 February, 2021]_
+
 ## Slender Fortress
 ### Base
 [Map Pack](https://mega.nz/file/CwY0HBhS#HE0fTRQCllqbtbf-KnmYyx17_5cd4eZHi1U7vThTKis) _[07 February, 2021]_
@@ -111,11 +118,6 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc) _[03 July, 2020]_
 
 ## Fort Wars
-
-## Freak Fortress
-[Map Pack](https://mega.nz/file/S9ZmXQLS#Mk7EinkeEEelg7T5rC2Ynr_MJF0upHVRabWVNfRG-hI) _[16 July, 2020]_
-
-[Content Pack](https://mega.nz/file/ipA0GQ6Y#DpqiGuBjI6K8xLNJ318q4qoveOXodO_yA5ddBugPkEc) _[16 July, 2020]_
 
 ## Glass Attack
 
