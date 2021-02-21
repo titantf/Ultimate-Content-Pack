@@ -32,7 +32,7 @@ Delete the old installation before placing your new installation over it.
 [mystHUD](https://mysthud.titan.tf) _[5 July, 2020]_
 
 ## Mann vs Machine
-[MvM Icons, Custom Mission Content](https://github.com/TitanTF/Titan-DLC) _[02 July, 2020]_
+[MvM Icons, Custom Mission Content](https://mega.nz/file/a5wW0LaQ#q7H22SwFNHtx80b5I4PXDgIilJFa5zhHJKHWhxQDzGs) _[21 February, 2021]_
 
 Map Pack (Coming Soon)
 
