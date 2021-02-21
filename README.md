@@ -58,7 +58,7 @@ Map Pack (Coming Soon)
 
 [Base Content Pack](https://mega.nz/file/LloAjDII#KrkqVV_U5IjVO2iNI4URgOAVDAFm_D6YNuj-6waXcJc) _[12 February, 2021]_
 
-[Additional Content Pack](https://mega.nz/file/HwxAGSTB#v9Z3gc6sMDV8Y3Qc7_CRDYjE4LKd51dAYPG_76lkM70) _[12 February, 2021]_
+[Additional Content Pack](https://mega.nz/file/HwxAGSTB#v9Z3gc6sMDV8Y3Qc7_CRDYjE4LKd51dAYPG_76lkM70) _[21 February, 2021]_
 
 ## Slender Fortress
 ### Base
