@@ -83,13 +83,13 @@ Delete the old installation before placing your new installation over it.
 These gamemodes run on our hub servers which rotates between a wide variety of different gamemodes. The map packs may include maps that are not currently in rotation, but may return in the future.
 
 ## Chill
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/e8YSQboD#rbIQ3u4fwJqFTrxPVpFVKztwhXiWSgUa3r5pv0rzfzU) _[22 February, 2021]_
 
 ## Boss Fight
 [Map Pack](https://mega.nz/file/z0xEXaoa#k2vsSeO-x12L0a2lToLQbpAIrCHLqhgz_X2QfHlBPB0) _[22 February, 2021]_
 
 ## Compete
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/fwIiwJpI#2tyHpJ0nbnaEI7hpwJuX2rfwJgvARiKYNmR2WeOB4UA) _[22 February, 2021]_
 
 ## Bunny Hop
 [Map Pack]() _[22 February, 2021]_
