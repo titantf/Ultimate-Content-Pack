@@ -85,14 +85,17 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 ## Chill
 
 ## Boss Fight
+[Map Pack](https://mega.nz/file/z0xEXaoa#k2vsSeO-x12L0a2lToLQbpAIrCHLqhgz_X2QfHlBPB0) _[22 February, 2021]_
 
 ## Compete
 
 ## Bunny Hop
 
 ## Class Wars
+[Map Pack](https://mega.nz/file/Lx4yCahJ#fwrKDhrh2o5yoe-9VjW5GwPpPxl35nadUPxI-NOkFVE) _[22 February, 2021]_
 
 ## Deathmatch
+[Map Pack](https://mega.nz/file/a15FAYBa#-8K56dvwA_U05eqijRKYhh0H_-Ce4Z054xEXFtbbTws) _[22 February, 2021]_
 
 ## Deathrun
 [Map Pack](https://mega.nz/file/zlhV2RRT#4J4V_2M88WL0-xrCAwR4Ioxxgy6jQ-peBk4_MoYrlQQ) _[16 July, 2020]_
@@ -103,23 +106,30 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc) _[03 July, 2020]_
 
 ## Fort Wars
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/W5pk0KwY#lCKrTXAktSv1jadUJkoAieFNOfGGEmpcibI2oWZnmig) _[22 February, 2021]_
 
 ## Glass Attack
+[Map Pack](https://mega.nz/file/ugxWhJqI#ZDoSyikH2PZdcDqrrpN7-9Im-S0V9p6kYQcCZgYt6xE) _[22 February, 2021]_
 
 ## Gun Game
+[Map Pack](https://mega.nz/file/KoxTmCCT#H3PPKxghTCgNVqxjYnR66fNDeISQ9mNOULvGsNZlI0A) _[22 February, 2021]_
 
 ## Huntsman Hell
+[Map Pack](https://mega.nz/file/bxxwHJrR#IkfJF-cmv5z9jRUOhtW7boqM54dC3SfagodQBZm_8AQ) _[22 February, 2021]_
 
 ## Instagib
+[Map Pack](https://mega.nz/file/msoGgDIR#0yUh3w1H-uX632c6uvII5Uvj83_JN9MqR88NCFAzsPk) _[22 February, 2021]_
 
 ## Jailbreak
+[Map Pack](https://mega.nz/file/3kwECIKa#F6CaItr3y5JttK3VgocYlztQ3aNrG0mUeP7koptmIYo) _[22 February, 2021]_
 
 ## Jump
 
 ## Minigames
+[Map Pack](https://mega.nz/file/rkhWiD5R#-YvYnBF_uT6Au4cXM_XQKgC1fWWg4z5vyljpL_UZ69s) _[22 February, 2021]_
 
 ## MGE
+[Map Pack](https://mega.nz/file/Pg4EiZrD#kuXvfvOabI0URc05TxZ_M3M8CjMo0rxaZKrplSD2Z2I) _[22 February, 2021]_
 
 ## Prop Hunt
 [Map Pack](https://mega.nz/file/yoo1CYhZ#Pd9Iby_n09NqsjpvlsfiLx9lbR9UgPwk14Ru3tMoqMs) _[03 July, 2020]_
@@ -127,26 +137,27 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Content Pack](https://github.com/powerlord/sourcemod-prophunt/releases/download/maps/PHSoundPack.zip) _[10 September, 2015]_
 
 ## Randomizer
+[Map Pack](https://mega.nz/file/CwxmiZ7I#2eK4QXNxlcJSzI3BzyG5DjaprNPvLQjF6Yh0F8iFZ4c) _[22 February, 2021]_
 
 ## Roleplay
+[Map Pack](https://mega.nz/file/Ts4ljaoS#xzXa5nJQRuf1IZ500oa3oAiEv7sVFEkwtoT0qkGzOxQ) _[22 February, 2021]_
 
 ## Sandbox
+[Map Pack]() _[22 February, 2021]_
 
 ## Smash Fortress
-[Map Pack]() _[22 February, 2021]_
-
-## Stop That Tank
+[Map Pack](https://mega.nz/file/r8oh1CKA#1wZGLC0KJadRBVF4YQY6W62yPXTozXr4V_5FbNapx_s) _[22 February, 2021]_
 
 ## Super Zombie Fortress
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/a0h0UJIT#3kcQs34AilMh4N4Qd-qpn03m96wnHXBhB6GmycstW2Q) _[22 February, 2021]_
 
 ## Surf
 
 ## TF:GO
-
-## The Hidden
+[Map Pack](https://mega.nz/file/zwpA0TJC#kzDs_-xN1dto2YNPhl82glgtmKi4hPtM3Z2pSLMy9Mg) _[22 February, 2021]_
 
 ## The Hunted
+[Map Pack](https://mega.nz/file/n85nHYiC#mrOr3-Ama7gC_ZxzMW-3LKEwzYiA4gDFZIzqDF-p-wA) _[22 February, 2021]_
 
 ## TF2 Ware
 [Map & Content Pack](https://mega.nz/file/KoZWgYjQ#6jC5Y6F60JRG8a5XOi9uBiRweXx9t84Jm82A71hBQzI) _[16 July, 2020]_
@@ -157,4 +168,4 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Content Pack](https://mega.nz/file/3wQCFCLD#pdhMlO7tLGIVrUncfvhrF_SFVwpxCGiKWadTs1D0TFA) _[16 July, 2020]_
 
 ## Wario Ware
-[Map & Content Pack]() _[22 February, 2021]_
+[Map & Content Pack](https://mega.nz/file/39wnFYyB#3oF0rQ3FNxO5YLjF8wjF6uZwVdTM_qoYjZs4Gb0sAxA) _[22 February, 2021]_
