@@ -66,8 +66,6 @@ Delete the old installation before placing your new installation over it.
 
 [All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Kart Pack, Pack 1 - 24](https://mega.nz/file/G0wUgZrb#WuVF-RcT4EaPB2Rp9E6qfcx2_RvLXGbRKieum9nToDs) _[22 February, 2021]_
 
-### *Content Updates (eventually will merge to base)
-
 ## Zombie Mod
 [Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI) _[03 July, 2020]_
 
