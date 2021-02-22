@@ -5,7 +5,7 @@
 
 ## Installation
 #### Map Packs
-Uunzip and put all `.bsp` files into your `tf/download/maps` folder.
+Unzip and put all `.bsp` files into your `tf/download/maps` folder.
 
 #### Content Packs
 Unzip and put all folders into your `tf/download` folder.
