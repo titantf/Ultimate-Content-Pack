@@ -34,7 +34,7 @@ Delete the old installation before placing your new installation over it.
 ## Mann vs Machine
 [MvM Icons, Custom Mission Content](https://mega.nz/file/a5wW0LaQ#q7H22SwFNHtx80b5I4PXDgIilJFa5zhHJKHWhxQDzGs) _[21 February, 2021]_
 
-Map Pack (Coming Soon)
+[Map Pack](https://mega.nz/file/KpxUGZzR#8CgraJYnxFdEdTrVG8KFDTUNekWUJJ3EdQ_IOsWFV-g) _[22 February, 2021]_
 
 ## Machine Attacks
 [Map Pack](https://mega.nz/file/nxIzlaBJ#vnPtL5B-9jpW3RjiYn2KzYMi84P175-tf75OmFsmBeM) _[03 July, 2020]_
