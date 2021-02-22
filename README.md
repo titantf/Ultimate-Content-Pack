@@ -92,7 +92,7 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Map Pack](https://mega.nz/file/fwIiwJpI#2tyHpJ0nbnaEI7hpwJuX2rfwJgvARiKYNmR2WeOB4UA) _[22 February, 2021]_
 
 ## Bunny Hop
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/usgTSYJB#CSqUTXJSEonhViGmH0LfLZ1H99-J1_5MTMliGnhicTE) _[22 February, 2021]_
 
 ## Class Wars
 [Map Pack](https://mega.nz/file/Lx4yCahJ#fwrKDhrh2o5yoe-9VjW5GwPpPxl35nadUPxI-NOkFVE) _[22 February, 2021]_
@@ -127,7 +127,7 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Map Pack](https://mega.nz/file/3kwECIKa#F6CaItr3y5JttK3VgocYlztQ3aNrG0mUeP7koptmIYo) _[22 February, 2021]_
 
 ## Jump
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/y95hnYBY#MFGslW3pfaK6tMPwDaYNjR06oQuubjJnXBPrzQFdTZ0) _[22 February, 2021]_
 
 ## Minigames
 [Map Pack](https://mega.nz/file/rkhWiD5R#-YvYnBF_uT6Au4cXM_XQKgC1fWWg4z5vyljpL_UZ69s) _[22 February, 2021]_
@@ -158,7 +158,7 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Content Pack](https://mega.nz/file/uk5iCYpa#I3ZRuK11fWDQtECUBRBb6KjgF2cZgaHaA8g8_74RaaQ) _[22 February, 2021]_
 
 ## Surf
-[Map Pack]() _[22 February, 2021]_
+[Map Pack](https://mega.nz/file/nhhSBJAa#3tbB3RkFF1suBNLwOyRHNogloqQ962-wrEE2EYh_kWE) _[22 February, 2021]_
 
 ## TF:GO
 [Map Pack](https://mega.nz/file/zwpA0TJC#kzDs_-xN1dto2YNPhl82glgtmKi4hPtM3Z2pSLMy9Mg) _[22 February, 2021]_
