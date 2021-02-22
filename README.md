@@ -62,24 +62,11 @@ Delete the old installation before placing your new installation over it.
 
 ## Slender Fortress
 ### Base
-[Map Pack](https://mega.nz/file/CwY0HBhS#HE0fTRQCllqbtbf-KnmYyx17_5cd4eZHi1U7vThTKis) _[07 February, 2021]_
+[Map Pack](https://mega.nz/file/CwY0HBhS#HE0fTRQCllqbtbf-KnmYyx17_5cd4eZHi1U7vThTKis) _[22 February, 2021]_
 
-[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Pack 1 - 20](https://mega.nz/file/G4p3TLQR#Z5F_AIzHo1W_KRinq7IBp2gWhyX5BkZSG50eDij5Q2g) _[04 July, 2020]_
+[All Boss Packs — Core Pack, Boxing Ring Pack, Classic Pack, Amnesia Pack, Cry of Fear Pack, DOOM 3 Pack, FNAF Pack, Frost Pack, Hellfire Pack, Parish Pack, SCP Pack, Staircase Pack, Statue Pack, Spongebob Pack, Swamp Pack, Kart Pack, Pack 1 - 24](https://mega.nz/file/G0wUgZrb#WuVF-RcT4EaPB2Rp9E6qfcx2_RvLXGbRKieum9nToDs) _[22 February, 2021]_
 
 ### *Content Updates (eventually will merge to base)
-[SF2 Modified Update 1.5.5.5 Content, The Count's Monster (Halloween KF2 Patriarch), Count Hans (Halloween Hans Volter), Swamp Monster King (Halloween King Fleshpound), Boxing King Fleshpound](https://mega.nz/file/v5YWlbaL#OQxWGGe3CTVxDD-0P7_vcATo_9Yer4G_kPJZeQ62ItI) _[18 October, 2020]_
-
-[Updated Chris Walker, Queen Vanessa, and Astolfo Bean Plushie](https://mega.nz/file/vhwFEIhD#3lEYSIueCLILJztAx9Zt_l7fn9sM28hXrTHWW9eDsTA) _[10 September, 2020]_
-
-[Updated Hans Volter, Dr Trager and SF2 Modified Update 5 Content](https://mega.nz/file/CoJngCxL#MKbf78l1Y7O-44vz5XgaGmfhvwhYL8op0Z7wZU2Lw3U) _[02 September, 2020]_
-
-[Updated Astolfo Bean Plushie, Jaraxxus, Boxing Jaraxxus, Boxing Argonite Giant, Boxing Argonite Magician, Boxing KF2 Patriarch and Boxing Hans Volter](https://mega.nz/file/nkxCVCpS#uGVT-RHyDzR7Nf2WfHVSpZmEctRjw8KfnkReRTsm-Mc) _[16 August, 2020]_
-
-[Added Astolfo Bean Plushie Boss](https://mega.nz/file/e5hRhAxK#75F7arU96qDAMS0B6BdImghIPtGF3J4LaKAIVIbOP4w) _[16 July, 2020]_
-
-[Added Pack 21, Team Killer, Skulldozer and Bulldozer Boss Updates](https://mega.nz/file/395AyS5Q#_ZhNoWk8Yzm4Z2vnFRzHhqX8cccFXDIZ8CJmPl_m0j0) _[12 July, 2020]_
-
-[New Bear Traps, Added Queen Vanessa and Neighbor Bosses](https://mega.nz/file/nt4zjDKI#f8LHNaCMx63kT0sfb6fqTN1zdF78YD4y91SVOU-PPTY) _[11 July, 2020]_
 
 ## Zombie Mod
 [Map Pack](https://mega.nz/file/HwQHWKYB#QJESRbi1ENUhPnTBnNpEhvP56KVddLlq0X0j7yROZaI) _[03 July, 2020]_
@@ -118,6 +105,7 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Map Pack](https://mega.nz/file/z1YCXYCY#yd1cH8LvAMZsBE_MYfXEua1IN__JNt_xeIpfQJ6wUTc) _[03 July, 2020]_
 
 ## Fort Wars
+[Map Pack]() _[22 February, 2021]_
 
 ## Glass Attack
 
@@ -147,10 +135,12 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 ## Sandbox
 
 ## Smash Fortress
+[Map Pack]() _[22 February, 2021]_
 
 ## Stop That Tank
 
 ## Super Zombie Fortress
+[Map Pack]() _[22 February, 2021]_
 
 ## Surf
 
@@ -169,3 +159,4 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Content Pack](https://mega.nz/file/3wQCFCLD#pdhMlO7tLGIVrUncfvhrF_SFVwpxCGiKWadTs1D0TFA) _[16 July, 2020]_
 
 ## Wario Ware
+[Map & Content Pack]() _[22 February, 2021]_
