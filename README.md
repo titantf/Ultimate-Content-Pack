@@ -111,6 +111,9 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 ## Fort Wars
 [Map Pack](https://mega.nz/file/W5pk0KwY#lCKrTXAktSv1jadUJkoAieFNOfGGEmpcibI2oWZnmig) _[22 February, 2021]_
 
+## Fortress Royale
+[Map Pack](https://mega.nz/file/D8AVwaDT#dWAWNw0j_69cqjGJLWLVNxvegqmld5jptN-pUBCRVHw) _[23 February, 2021]_
+
 ## Glass Attack
 [Map Pack](https://mega.nz/file/ugxWhJqI#ZDoSyikH2PZdcDqrrpN7-9Im-S0V9p6kYQcCZgYt6xE) _[22 February, 2021]_
 
