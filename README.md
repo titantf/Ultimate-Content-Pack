@@ -31,6 +31,10 @@ Delete the old installation before placing your new installation over it.
 
 [mystHUD](https://mysthud.titan.tf) _[5 July, 2020]_
 
+[Main Menu Backgrounds by Sarah](https://drive.google.com/file/d/1gx81F3pKmX5dtjvTXm2cd3s6N3PFL02e/view?usp=sharing) _[29 August, 2021]_
+
+[We Are Titan Images](https://drive.google.com/file/d/13XwcXRZdN0ZhZaaQZH5eJNUGXADBXzB3/view?usp=sharing) _[28 August, 2021]_
+
 ## Mann vs Machine
 [MvM Icons, Custom Mission Content](https://mega.nz/file/a5wW0LaQ#q7H22SwFNHtx80b5I4PXDgIilJFa5zhHJKHWhxQDzGs) _[21 February, 2021]_
 
