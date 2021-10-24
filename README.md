@@ -182,4 +182,4 @@ These gamemodes run on our hub servers which rotates between a wide variety of d
 [Content Pack](https://mega.nz/file/3wQCFCLD#pdhMlO7tLGIVrUncfvhrF_SFVwpxCGiKWadTs1D0TFA) _[16 July, 2020]_
 
 ## Wario Ware
-[Map & Content Pack](https://mega.nz/file/39wnFYyB#3oF0rQ3FNxO5YLjF8wjF6uZwVdTM_qoYjZs4Gb0sAxA) _[22 February, 2021]_
+[Map & Content Pack](https://mega.nz/file/ytxzXKTB#o2ny7-5jErwbwRPxui7U7vNFhhUBgho85Pi7iKOnIlY) _[24 October, 2021]_
